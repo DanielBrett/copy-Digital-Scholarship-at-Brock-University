@@ -6,5 +6,16 @@
     <description>Recent content on Digital Scholarship at Brock University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brock Stuff</title>
+      <link>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/about/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/about/</guid>
+      <description>This is some random content
+blah blah blah
+some big text too  and a list  </description>
+    </item>
+    
   </channel>
 </rss>
