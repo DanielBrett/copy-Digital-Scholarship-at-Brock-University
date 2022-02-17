@@ -15,6 +15,19 @@
                 href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/page/about/"
                 />
   </url><url>
+    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/"
+                />
+  </url><url>
     <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -46,8 +59,18 @@
                 href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/tags/emoji/"
                 />
   </url><url>
-    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/stuffs/emoji-support/</loc>
+    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/emoji-support/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/de/blog/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/emoji-support/"
+                />
   </url><url>
     <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/page/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
@@ -61,9 +84,6 @@
                 hreflang="en"
                 href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/page/"
                 />
-  </url><url>
-    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/stuffs/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/tags/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
@@ -122,14 +142,34 @@
                 href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/tags/markdown/"
                 />
   </url><url>
-    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/stuffs/markdown-syntax/</loc>
+    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/markdown-syntax/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/de/blog/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/markdown-syntax/"
+                />
+  </url><url>
+    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/math-typesetting/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/stuffs/math-typesetting/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/stuffs/placeholder-text/</loc>
+    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/placeholder-text/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/de/blog/placeholder-text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/placeholder-text/"
+                />
   </url><url>
     <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/tags/privacy/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
@@ -144,8 +184,18 @@
                 href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/tags/privacy/"
                 />
   </url><url>
-    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/stuffs/rich-content/</loc>
+    <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/rich-content/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/de/blog/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/blog/rich-content/"
+                />
   </url><url>
     <loc>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/en/tags/shortcodes/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
