@@ -5,8 +5,7 @@
     <link>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/</link>
     <description>Recent content on Digital Scholarship at Brock University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/about/</link>
@@ -15,37 +14,6 @@
       <guid>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/about/</guid>
       <description>The Brock Digital Scholarship Lab supports and maintains this site.
 For more information, contact DSL@brocku.ca</description>
-    </item>
-    
-    <item>
-      <title>Omeka S Site Building Guide</title>
-      <link>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/pages/omeka-s-guide/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/pages/omeka-s-guide/</guid>
-      <description>Welcome to the Omeka S Site Building Guide! This guide will walk through all of the steps you will need in order to build an Omeka S site that adheres to the guidelines required by the Brock University Digital Scholarship Lab. If you have any questions or suggestions while working through the guide, please reach out to the DSL at DSL@Brocku.ca.
-Without further ado, lets get building!
-It is reccomended that the first three steps all be completed at the same time to prevent issues caused by having a site without the correct settings interfering with other users work.</description>
-    </item>
-    
-    <item>
-      <title>Resource #1</title>
-      <link>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/pages/resource-test-1/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/pages/resource-test-1/</guid>
-      <description>This is the content of another new page
-Here is some new text PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW PEW</description>
-    </item>
-    
-    <item>
-      <title>Resource #2</title>
-      <link>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/pages/resource-test-2/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/pages/resource-test-2/</guid>
-      <description>This is the content of my new page
-WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPPWOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPPWOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP</description>
     </item>
     
     <item>
@@ -94,16 +62,6 @@ WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPP WOOOOOPPPPWOOOOOPPPP WOOO
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/blog/python-machine-learning/</guid>
-      <description>   HTML Meta Tag   Redirecting to another URL
-  </description>
-    </item>
-    
-    <item>
-      <title>Redirect Test</title>
-      <link>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/pages/redirect-test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University/pages/redirect-test/</guid>
       <description>   HTML Meta Tag   Redirecting to another URL
   </description>
     </item>
